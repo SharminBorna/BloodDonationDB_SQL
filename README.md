@@ -20,7 +20,6 @@ It's a SQL database for Blood Donation Management system.
 * Select statment that concatenate data, that Eliminates duplicate rows , that Use IN Phrase & that Use BETWEEN Phrase
 * Join Query, Implicit Join Query & Outer join Query
 * Sub-Query
-* Union
 * CTE
 ## Tools and Technologies:
 * SQL Server Management Studio 2018
